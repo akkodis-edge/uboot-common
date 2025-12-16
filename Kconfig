@@ -58,8 +58,8 @@ config SPL_DR_IMX8M_DDRC
 
 config BLOBLIST_DR_PLATFORM
 	hex "Bloblist tag for platform header"
-	default 0xffff0001
-	
+	default 0xfff003
+
 config DR_PLATFORM_LOADADDR
 	hex "Loadaddres for platform header"
 
