@@ -1,4 +1,4 @@
-#include <common.h>
+#include <string.h>
 #include <command.h>
 #include "nvram.h"
 #include "libnvram/libnvram.h"

@@ -1,6 +1,6 @@
-#include <common.h>
 #include <stdlib.h>
-#include <string.h>
+#include <errno.h>
+#include <vsprintf.h>
 #include <env.h>
 #include <part.h>
 #include <inttypes.h>
